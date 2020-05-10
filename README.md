@@ -1,1 +1,1 @@
-Este repositório serve para realizar o controle de versão dos projeto de POO I.
+Este repositório serve para realizar o controle de versão da segunda etapa do projeto de POO I.
